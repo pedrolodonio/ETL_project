@@ -17,7 +17,9 @@ Para executar o projeto, você precisa ter os seguintes pré-requisitos:
 pip install -r requirements.txt
 ```
 3.Configure o PostgreSQL
+
 -Crie um banco de dados no PostgreSQL.
+
 -No arquivo config/db_config.py, você precisa fornecer as credenciais do banco de dados:
 ```
 DB_CONFIG = {
