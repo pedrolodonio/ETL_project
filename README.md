@@ -12,11 +12,19 @@ Para executar o projeto, você precisa ter os seguintes pré-requisitos:
 
 1.Clone este repositório
 
-2.Instale as dependências do projeto usando o comando:
+2.Crie um Ambiente virtual:
+
+```
+python -m venv venv
+venv\Scripts\activate
+
+```
+
+3.Instale as dependências do projeto usando o comando:
 ```
 pip install -r requirements.txt
 ```
-3.Configure o PostgreSQL
+4.Configure o PostgreSQL
 
 -Crie um banco de dados no PostgreSQL.
 
@@ -30,7 +38,7 @@ DB_CONFIG = {
     "password": "sua_senha"
 }
 ```
-4.Execute o main.py no terminal:
+5.Execute o main.py no terminal:
 ```
 python script/main.py
 ```
