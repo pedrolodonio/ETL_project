@@ -5,12 +5,7 @@ Este projeto foi desenvolvido como parte do curso de Python da CodeMaster Academ
 
 - [Pré-requisitos](#pré-requisitos)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Instalação](#instalação)
-- [Configuração](#configuração)
-- [Execução](#execução)
-- [Estrutura do Banco de Dados](#estrutura-do-banco-de-dados)
-- [Exemplo de Execução](#exemplo-de-execução)
-- [Licença](#licença)
+- [Executar](#Para-Executar)
 
 ## Pré-requisitos
 
