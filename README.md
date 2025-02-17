@@ -1,9 +1,5 @@
 # Projeto de Sistema ETL
-O projeto consiste na criação de um sistema ETL (Extração, Transformação e Carga), o qual automatiza a coleta de dados, realiza o processamento necessário e os armazena de forma estruturada para análise.
-
-# Web Scraping ETL Project
-
-Este projeto tem como objetivo realizar um processo de ETL (Extração, Transformação e Carga) a partir de um web scraping de dados relacionados a variantes de doenças e taxas de mortalidade. O projeto utiliza Python, PostgreSQL e diversas bibliotecas de terceiros para processar e armazenar dados.
+Este projeto foi desenvolvido como parte do curso de Python da CodeMaster Academy, disponível na plataforma Udemy. O objetivo do projeto é a criação de um sistema ETL (Extração, Transformação e Carga), o qual automatiza a coleta de dados, realiza o processamento necessário e os armazena de forma estruturada para análise.
 
 ## Tabela de Conteúdos
 
