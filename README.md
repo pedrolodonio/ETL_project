@@ -11,6 +11,7 @@ Para executar o projeto, você precisa ter os seguintes pré-requisitos:
 ## Para Executar:
 
 1.Clone este repositório
+
 2.Instale as dependências do projeto usando o comando:
 ```
 pip install -r requirements.txt
