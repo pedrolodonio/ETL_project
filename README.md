@@ -17,7 +17,6 @@ Para executar o projeto, você precisa ter os seguintes pré-requisitos:
 ```
 python -m venv venv
 venv\Scripts\activate
-
 ```
 
 3.Instale as dependências do projeto usando o comando:
